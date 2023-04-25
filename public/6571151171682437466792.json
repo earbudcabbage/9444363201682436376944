@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766718168192",
+    "project_id": "takbiran-offline---online",
+    "storage_bucket": "takbiran-offline---online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766718168192:android:6a95d66f0c5c6108926a65",
+        "android_client_info": {
+          "package_name": "com.raidev.takbiranoffline.gematakbironline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766718168192-nv4128serkuhjdbrsbp90ookn6puq99c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqr1SNJRp9N5cX4rVaCcxWpJ6it4WFic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766718168192-nv4128serkuhjdbrsbp90ookn6puq99c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
